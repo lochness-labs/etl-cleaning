@@ -1,0 +1,6 @@
+id:
+  type: bigint
+  conversion_required: true
+name:
+  type: string
+  conversion_required: true
